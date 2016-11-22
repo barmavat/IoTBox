@@ -1,0 +1,2 @@
+C:\iotsamples\mobile\naanasiotmobapp1\naanasiotmobapp1.csproj;neutral
+C:\iotsamples\mobile\WinApp\naanasiotmobapp1.WinApp.csproj;neutral
