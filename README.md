@@ -1,7 +1,7 @@
 ---
 services: iot-hub, iot-suite
 platforms: Nodejs
-author: ZhijunZhao
+author: Balaji Barmavat
 ---
 
 # Configure a Raspberry Pi 3 device and run a sample app on it
